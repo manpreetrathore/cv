@@ -1,6 +1,6 @@
 
 # Can Hacktober army make a cv website for me ?
-# manpreetrathore-Hacktoberfest2020 [Live Website](#)
+# manpreetrathore-cv [Live Website](#)
 
 Help me make a horrible portfolio by letting people from all over the world contribute with their own ideas and design!
 
