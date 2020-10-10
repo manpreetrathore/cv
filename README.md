@@ -9,7 +9,8 @@ By the way, following articles and tutorials will guide you to create complete a
 
 _Disclaimer! This is a project for fun! at the same time I  expect a decent standard website . I expect the community to give me a nice portfolio and that we will have fun creating it together_
 
-## Contribution Rules (Will be updated)
+## What to do:
+- Make a portfolio website with my info. You can add whatever folder/files you want to add.
 
 ### Don't
 
