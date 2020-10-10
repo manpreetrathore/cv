@@ -22,7 +22,7 @@ _Disclaimer! This is a project for fun! at the same time I  expect a decent stan
 
 - Keep pull requests small to minimize merge conflicts.
 - Make sure there is no merge conflict
-- Fun things! This is not supposed to be serious or pretty. Be creative add easter eggs and pink stuff! 🐷
+- Fun things! This may not serious but pretty. Be creative add easter eggs and pink stuff! 🐷
 
 ## About me
 
