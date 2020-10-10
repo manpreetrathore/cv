@@ -68,14 +68,12 @@ _Disclaimer! This is a project for fun! at the same time I  expect a decent stan
   - I'm an unemployed software developer from Sweden [My Github](https://github.com/BennyCarlsson). Hacktoberfest is like Christmas for me. This year I thought it would be fun to crowdsource a portfolio.
 - Did you not do something like this last year?
   - [Yes I did](https://github.com/lingonsaft/hacktoberfest) but it got too big and too time consuming this year I'm going smaller :)
-- Are you not one of the guys from that failed [CodeCardCodingCards](https://www.kickstarter.com/projects/lingonsaft/codecardcodingcards) kickstarter?
-  - Yes...
 - How many pull requests (PRs) must be made to get an awesome shirt from Hacktoberfest 2019?
   - 4
 - How do I track my progress to get an awesome shirt from Hacktoberfest 2019?
   - go to : [https://hacktoberfest.digitalocean.com/profile](https://hacktoberfest.digitalocean.com/profile)
 - What is the duration of Hacktoberfest 2019?
-  - It is from October 1st, 2019 to October 31st, 2019.
+  - It is from October 1st, 2020 to October 31st, 2020.
 - What is the event for?
   - For open source community engagement.
 
