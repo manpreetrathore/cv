@@ -28,3 +28,8 @@ function setTheme(mode){
 
 	localStorage.setItem('theme', mode)
 }
+document.getElementById('contact-form').addEventListener('submit',contactForm );
+function contactForm(e){
+	e.preventDefault();
+	console.log("hello")
+}
