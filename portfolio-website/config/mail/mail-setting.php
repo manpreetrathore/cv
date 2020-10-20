@@ -4,7 +4,7 @@ use PHPMailer\PHPMailer\Exception;
 
 
 
-$mail = new PHPMailer(true); //Argument true in constructor enables exceptions
+// $mail = new PHPMailer(true); //Argument true in constructor enables exceptions
 
 //$mail->SMTPDebug = 3;                               // Enable verbose debug output
 
