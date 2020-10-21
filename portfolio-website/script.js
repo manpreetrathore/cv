@@ -28,8 +28,19 @@ function setTheme(mode){
 
 	localStorage.setItem('theme', mode)
 }
-document.getElementById('contact-form').addEventListener('submit',contactForm );
-function contactForm(e){
+document.getElementById('contact-form').addEventListener('submit',sendMail);
+function sendMail(e){
 	e.preventDefault();
-	console.log("hello")
+    var name = document.getElementById('name').value;
+    var subject = document.getElementById('subject').value;
+    var email = document.getElementById('email').value;
+    var message = document.getElementById('message').value;
+    var pharams = 'name=' + name + '&subject=' + subject + '&email=' + email + '&message=' + message ;
+	var xhr = new XMLHttpRequest();
+	xhr.open('POST','contact.php',true);
+              xhr.setRequestHeader('content-type','application/x-www-form-urlencoded');
+              xhr.onload = function (){
+                console.log(this.responseText);
+              }
+              xhr.send(pharams);
 }
