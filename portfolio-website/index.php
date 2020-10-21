@@ -164,26 +164,25 @@
 			<a href=""></a>
 			<h3 style="text-align: center;">Contact me</h3>
 
-			<form id="contact-form" action="contact.php" method="post">
+			<form id="contact-form" action="" method="post">
 				<a name="contact"></a>
 
 				<label>Name</label>
-				<input class="input-field" type="text" name="name">
+				<input class="input-field" type="text" name="name" id="name">
 
 				<label>Subject</label>
-				<input class="input-field" type="text" name="subject">
+				<input class="input-field" type="text" name="subject" id="subject">
 
 				<label>Email</label>
-				<input class="input-field" type="text" name="email">
+				<input class="input-field" type="text" name="email" id="email">
 
 				<label>Message</label>
-				<textarea class="input-field" name="message"></textarea>
+				<textarea class="input-field" name="message" id="message"></textarea>
 
-				<input id="submit-btn" type="submit" value="Send">
+				<input type="submit" id="submit-btn"  value="Send">
 			</form>
 		</div>
 	</section> 
-	
 
 	<script type="text/javascript" src="script.js"></script>
 </body>
