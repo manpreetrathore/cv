@@ -45,6 +45,9 @@ a{
 	text-decoration: none;
 	color:#17a2b8;
 }
+a:hover{
+	padding: 10px 20px;
+}
 
 ul{
 	list-style: none;
@@ -374,6 +377,40 @@ h6 { font-size: 16px;}
 	color: #fff;
 	background-color: var(--buttonColor);
 	border:none;
+}
+
+footer{
+    background-color: var(--mainColor);
+    text-align: center;
+    padding: 3rem 0;
+}
+footer .copyright{
+    color: var(--mainText);
+}
+footer .footer-socials a{
+	text-decoration: none;
+}
+.footer-socials .fa-instagram,
+.footer-socials .fa-linkedin,
+.footer-socials .fa-twitter{
+    color: var(--pure);
+	font-size: 3rem;
+    margin-right: 2rem;
+    transition: all 0.3s ease;
+}
+
+.footer-socials a:hover{
+	padding: 10px 20px;
+}
+
+.footer-socials .fa-twitter:hover{
+	color: #1DA1F2;
+}
+.footer-socials .fa-linkedin:hover{
+    color: #2867B2;
+}
+.footer-socials .fa-instagram:hover{
+    color: #C13584;
 }
 
 
