@@ -1,6 +1,6 @@
 
 # Can Hacktober army make a portfolio website for me ?
-# manpreetrathore-cv [Live Website](#)
+# manpreetrathore-cv [Live Website](https://manpreetrathore.github.io/cv/)
 
 Help me make a horrible portfolio by letting people from all over the world contribute with their own ideas and design!
 
